@@ -2,6 +2,14 @@
 A subscription-based service provider was experiencing a churn rate.
 
 
+![1 2025-01-20 233215](https://github.com/user-attachments/assets/ced5137f-2510-4f47-b1e7-494e1a4bee13)
+
+
+![2--2025-01-20 233247](https://github.com/user-attachments/assets/c103d2a8-a1b0-4eee-b7bb-8124b89be860)
+
+
+
+
 **Who is the Target Audience
 **
 Although this project focuses on churn analysis for a telecom firm, the techniques and insights are applicable across various industries. From retail and finance to healthcare and beyond, any business that values customer retention can benefit from churn analysis. We will explore the methods, tools, and best practices for reducing churn and improving customer loyalty, transforming data into actionable insights for sustained success.
